@@ -21,8 +21,8 @@ body {
 }
 
 #cabecera {
-    background-color: #354;
-    color: #fff;
+    background-color: rgb(224, 228, 226);
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 1em;
@@ -30,6 +30,9 @@ body {
 }
 .post {
     padding: 1em
+}
+img {
+    width: 120px;
 }
 
 #cabecera span {
