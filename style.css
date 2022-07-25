@@ -21,8 +21,8 @@ body {
 }
 
 #cabecera {
-    background-color: #354;
-    color: #fff;
+    background-color: rgb(224, 228, 226);
+    color: black;
     font-weight: bold;
     margin: 0;
     padding: 1em;
@@ -34,5 +34,10 @@ body {
 
 #cabecera span {
     font-weight: 100;
-    padding: 1em
+    padding: 1em;
+    font-size: 14px;
+}
+
+img {
+    width: 120px
 }
