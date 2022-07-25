@@ -36,3 +36,10 @@ body {
     font-weight: 100;
     padding: 1em
 }
+
+.footer {
+    background-color: #ddd;
+    text-align: center;
+    padding: 0.5em;
+    font-weight: bold;
+}
